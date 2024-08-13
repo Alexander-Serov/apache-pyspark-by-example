@@ -1,4 +1,4 @@
-# Apache PySpark by Example 
+# Apache PySpark by Example
 
 A code repository based on the Linkedin Learning's `Apache Pyspark by Example` course by `Jonathan Fernandes`.
 
@@ -12,7 +12,7 @@ A hands-on course by `Jonathan Fernandes` on PySpark.
 
 The following topics are covered:
 
-* Apache Spark 
+* Apache Spark
 * DataFrame API
 * RDDs
 
@@ -28,4 +28,3 @@ The code samples have been tested using Python 3.8.x and Spark 3.1.2
 
 * Jonathan Fernandes
 * [Linkedin Learning](https://www.linkedin.com/learning/)
-
