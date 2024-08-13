@@ -1,6 +1,10 @@
 # Apache PySpark by Example 
 
-A code repository for Linkedin Learning's `Apache Pyspark by Example` by `Jonathan Fernandes`. 
+A code repository based on the Linkedin Learning's `Apache Pyspark by Example` course by `Jonathan Fernandes`.
+
+Added a poetry environment for easy setup.
+
+All PRs welcome!
 
 ## About the course
 
